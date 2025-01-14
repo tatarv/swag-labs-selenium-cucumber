@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.237">
+<testcase classname="Unknown" name="Cenário 01 - Verificar se é possível efetuar o login" time="7.002">
+<system-out><![CDATA[Given que eu acesso a aplicação.............................................passed
+And eu preencho os campos username e password com um usuário e senha válidos.passed
+When eu clico no botão Login................................................passed
+Then a tela principal da aplicação é exibida................................passed
+]]></system-out>
+</testcase>
+</testsuite>
