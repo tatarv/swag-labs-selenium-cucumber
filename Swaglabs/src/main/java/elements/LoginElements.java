@@ -18,5 +18,5 @@ public class LoginElements {
 
     //mensagens
     @FindBy(xpath = "//*[@data-test='error']")
-    private WebElement errorMessageContainer;
+    public WebElement errorMessageContainer;
 }

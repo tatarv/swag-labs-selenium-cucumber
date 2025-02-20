@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "./src/test/java/features/",
         glue = {"steps"},
+        //tags = "@login",
         plugin = {"junit:result.xml"}
 )
 
